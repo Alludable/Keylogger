@@ -1,1 +1,36 @@
-'j'Key.backspaceKey.shiftKey.shift'I'"'"'v''e'Key.space'c''o''n''e''n''c''t'Key.backspaceKey.backspaceKey.backspaceKey.backspace'n''c''e''d'Key.backspaceKey.backspaceKey.backspace'e''c''t''e''d'Key.space't''h''e'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspace'r''e''w''r''i''t''t''e''n'Key.space't''h''e'Key.space'c''o''d''e'Key.space'f''r''o''m'Key.spaceKey.shift'T''i''m'"'"'s'Key.space'c''i'Key.backspaceKey.backspace'v''i''d''e''o'Key.space'b''e''c''a''u''s''e'Key.space'h''s'Key.backspace'i''s'Key.space'c''v'Key.backspaceKey.backspace'v''e''r''s''i''o''n'Key.space'w''a''s'Key.space'o''u''t''d''a''t''e''d''.'Key.spaceKey.shift'T''h''i''s'Key.space'i''s'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.shift'R''e''w''r''i''t''t''e''n'Key.spaceKey.shift'T''i'"'"'m''s'Key.spaceKey.backspaceKey.backspaceKey.backspaceKey.backspace'm''s'Key.backspace"'"'s'Key.spaceKey.shift'O''u'Key.backspaceKey.backspace'o''u''t''d''a''t''e''d'Key.space'c''o''d''e''.'Key.shift'T''e''c''h'Key.shift'W''i''t''h'Key.shift'T''I''n''s'Key.backspaceKey.backspaceKey.backspace'i''m'"'"'s'Key.space'c''o''d''e'Key.space'q''a''s'Key.spaceKey.backspaceKey.backspaceKey.backspaceKey.backspace'w''a''s'Key.space'o''u''t''d''a''t''e''d'Key.space's''o'Key.spaceKey.shift'I'Key.space'r''e''a''d'Key.space't''h''e'Key.space'p''y''n'Key.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.shift'P''y''n''p''u''t'"'"'s'Key.space'd''o''c''u''m''e''n''t''a''t''i''o''n'Key.space'a''n''d'Key.space'l''e''a''r''n''e''d'Key.space'h''o''w'Key.space't''o'Key.space'f''i''x'Key.space'i''t''.'Key.spaceKey.shift'T''h''i''s'Key.space'w''a''s'Key.space'm''t''y'Key.spaceKey.backspaceKey.backspaceKey.backspace'y'Key.space'f''i''r''s''t'Key.space't''i''m''e'Key.space'p''r''o''p''e''r''l''y'Key.space'l''e''a''r''n''i''n''g'Key.space'a''n''d'Key.spaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspaceKey.backspace'a''n''a''l''y''z''i''n''g'Key.space'a''n''d'Key.space'e''x''c'Key.backspace'e''c''u''t''i''n''g'Key.space't''h''e'Key.spaceKey.backspaceKey.backspaceKey.backspaceKey.backspace't''h''i''n''g''s'Key.space't''h''a''t'Key.spaceKey.shift'I'"'"'v''e'Key.space'p''i''c''k''e''d'Key.space'u''p'Key.space'f''r''o''m'Key.space't'Key.backspace'd''o''c''u''m''e''n''t''i'Key.backspace'a''t''i''o'
+
+ h  e  l  l  o 
+ 1  0  h  i 
+ h  o  w 
+ a  r  e 
+ y  o  u  :  ) 
+ ! 
+ U  p  d  a  t  e  d 
+ t 
+ f  o  r  m  a  t 
+ f  o  r 
+ l  o  g  g  e  d 
+ t  e  x  t  . 
+
+
+
+
+ i  n  p  t 
+ u  t  s  .  R  e  m  o  v  e  d 
+ n  o  n  s  e  n  i  c  a  l 
+ q  u  o  t  a  t  i 
+
+
+
+
+
+
+
+
+
+
+
+ s  i  c  a  l 
+ q  u  o  t  a  t  i  o  n 
+ m  a  r  k  s 
+ 

